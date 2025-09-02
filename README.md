@@ -11,6 +11,7 @@ Proyecto de gestión de usuarios en Python con interfaz gráfica (GUI). Permite 
 ## 🛠 Tecnologías
 - Python 
 - Tkinter
+- SQLite
 
 ## 📁 Contenido del proyecto
 - `Usuarios/` → Carpeta con datos o submódulos relacionados con los usuarios.
